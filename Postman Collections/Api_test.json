@@ -4,5 +4,25 @@
 		"name": "New Collection",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Folder",
+			"item": [
+				{
+					"name": "New Request",
+					"id": "6cfbd0f3-553c-487c-981a-e50a7c2ce740",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			],
+			"id": "b5de69fc-8b36-4805-bc4c-e620f31d485e",
+			"description": "testing"
+		}
+	]
 }
